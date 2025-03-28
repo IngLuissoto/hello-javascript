@@ -32,9 +32,11 @@ console.log(greeting.includes("Hola")) // Incluye
 console.log(greeting.includes("Brais"))
 console.log(greeting.includes("MoureDev"))
 console.log(greeting.slice(0, 10)) // Sección
-console.log(greeting.replace("Brais", "MoureDev")) // Reemplazo
+console.log(greeting.replace("Brais", "MoureDev")) // Reemplazo // i(cambio de todas las palabras sin importar mayusculas o minusculas) g(Cambios globales) m(cambios a varias lineas) 
 
 // Template literals (plantillas literales)
+/* Interporlacion con comillas invertidas(``)
+sino marcara error*/
 
 // Strings en varias líneas
 let message = `Hola, este
