@@ -13,6 +13,10 @@ let Animals = []
 Animals = ["Tigre","Elefante","Leon","Pantera","Puma"]
 console.log(Animals)
 
+for (let value of Animals) {
+    console.log(value)
+}
+
 
 // 2. Añade dos más. Uno al principio y otro al final
 

@@ -1,11 +1,5 @@
-/*
-Clase 29 - Bucles
-Vídeo: https://youtu.be/1glVfFxj8a4?t=11575
-*/
-
-// Loops o bucles
-
 // for
+//Estructuras de control
 
 for (let i = 0; i < 5; i++) {
     console.log(`Hola ${i}`)
