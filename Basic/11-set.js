@@ -1,8 +1,3 @@
-/*
-Clase 26 - Sets 
-Vídeo: https://youtu.be/1glVfFxj8a4?t=9952
-*/
-
 // Set
 
 // Declaración
@@ -19,7 +14,7 @@ console.log(mySet)
 
 // Métodos comunes
 
-// add y delete
+// add y delete Agregar y eliminar elementos
 
 mySet.add("https://moure.dev")
 
@@ -34,12 +29,12 @@ console.log(mySet.delete(4))
 
 console.log(mySet)
 
-// has
-
+// has comprobar si existe un elemento
+ 
 console.log(mySet.has("Moure"))
 console.log(mySet.has("Brais"))
 
-// size
+// size longitud
 
 console.log(mySet.size)
 

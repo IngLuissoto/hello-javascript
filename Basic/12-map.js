@@ -1,8 +1,3 @@
-/*
-Clase 27 - Maps
-Vídeo: https://youtu.be/1glVfFxj8a4?t=10755
-*/
-
 // Map
 
 // Declaración
@@ -23,7 +18,7 @@ console.log(myMap)
 
 // Métodos y propiedades
 
-// set
+// set actulizar un valor, o subir un valor
 
 myMap.set("alias", "mouredev")
 myMap.set("name", "Brais Moure")
