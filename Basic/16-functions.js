@@ -1,8 +1,3 @@
-/*
-Clase 31 - Funciones
-Vídeo: https://youtu.be/1glVfFxj8a4?t=12829
-*/
-
 // Funciones
 
 // Simple
