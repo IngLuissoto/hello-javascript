@@ -83,7 +83,7 @@ extern()
 
 // Funciones de orden superior
 
-function applyFunc(func, param) {
+function applyFunc(func, param) { //Funciones que reciben como parametro otra funcion
     func(param)
 }
 

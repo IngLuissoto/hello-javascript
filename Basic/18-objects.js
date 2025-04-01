@@ -1,8 +1,3 @@
-/*
-Clase 33 - Objetos
-Vídeo: https://youtu.be/1glVfFxj8a4?t=14229
-*/
-
 // Objetos
 
 // Sintaxis
@@ -57,7 +52,7 @@ let person2 = {
 person2.walk()
 
 // Anidación de objetos
-
+console.log("anidacion")
 let person3 = {
     name: "Brais",
     age: 37,
@@ -69,7 +64,7 @@ let person3 = {
         name: "Programador",
         exp: 15,
         work: function () {
-            console.log(`La persona de ${this.age} años de experiencia trabaja.`)
+            console.log(`La persona de ${this.exp} años de experiencia trabaja.`)
         }
     }
 }
@@ -82,6 +77,8 @@ console.log(person3.job.name)
 person3.job.work()
 
 // Igualdad de objetos
+
+console.log("Igualdad de objetos")
 
 let person4 = {
     name: "Brais Moure",
@@ -98,6 +95,8 @@ console.log(person === person4)
 
 console.log(person.name == person4.name)
 
+
+console.log("Iteracion")
 // Iteración
 
 for (let key in person4) {
