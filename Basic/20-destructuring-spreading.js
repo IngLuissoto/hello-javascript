@@ -1,8 +1,3 @@
-/*
-Clase 35 - Desestructuración y propagación
-Vídeo: https://youtu.be/1glVfFxj8a4?t=15747
-*/
-
 let myArray = [1, 2, 3, 4]
 
 let person = {
