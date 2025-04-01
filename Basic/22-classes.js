@@ -52,7 +52,7 @@ console.log(person3.alias)
 
 // Funciones en clases
 
-class PersonWithMethod {
+class deporte{
 
     constructor(name, age, alias) {
         this.name = name
